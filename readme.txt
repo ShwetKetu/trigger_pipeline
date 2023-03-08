@@ -1,1 +1,1 @@
-trigger pipeline job for cicd
+trigger pipeline job for cicd project
